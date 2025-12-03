@@ -6,8 +6,13 @@ This provides GitHub Markdown cat images for code reviews.
 
 ## Cats
 
+![LGTM Cat Preview](https://github.com/ann-kilzer/LGTM-cat/blob/main/images/ramona-1.png?raw=true)
 
-
+```
+[![LGTM Cat]
+(https://github.com/ann-kilzer/LGTM-cat/blob/main/images/ramona-1.png?raw=true)]
+(https://github.com/ann-kilzer/LGTM-cat)
+```
 
 ## How to add new cats
 
@@ -26,9 +31,9 @@ No AI images allowed in this project. Real :cat: only
 ```
 ![LGTM Cat Preview](https://github.com/ann-kilzer/LGTM-cat/images/TODO)
 
-```
+\```
 [![LGTM Cat](https://github.com/ann-kilzer/LGTM-cat/images/TODO)](https://github.com/ann-kilzer/LGTM-cat)
-```
+\```
 ```
 
 
